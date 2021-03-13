@@ -24,6 +24,8 @@ The transform property allows you to rotate, scale, move, skew, etc., elements.
 
 ## JS
 
+### querySelector
+
 - Get the first `<a>` element that has a `target` attribute:
 
 ```html
